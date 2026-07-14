@@ -9,7 +9,3 @@ exclude: true
 - [PCL N 插件商店](https://pcln.top/) — 浏览、购买和发布插件。
 - [插件中心前端](https://github.com/MuXue1230-owo/PCL-N-Plugin-Center-Web) — 商店与发布者工作台。
 - [插件中心服务端](https://github.com/MuXue1230-owo/PCL-N-Plugin-Center-Server) — 市场 API、发布审核与安全扫描。
-
-## 兼容项目
-
-- [PCL CE](./ce/) — PCL Community 维护的社区版相关帮助文档。
